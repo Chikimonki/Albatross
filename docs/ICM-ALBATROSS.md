@@ -11,13 +11,12 @@ DORA (Digital Operational Resilience Act) Article 19 requires financial institut
 - `dora_evidence.lua` — Evidence bundle generator
 
 ## Usage
-```bash
 luajit test_classifier.lua
 luajit test_timeline.lua
 luajit test_albatross_full.lua
-Regulatory References
-DORA Article 19: Incident reporting
 
-RTS 2024/1772: Classification criteria
 
-ITS 2024/2956: Register of Information
+## Regulatory References
+- DORA Article 19: Incident reporting
+- RTS 2024/1772: Classification criteria
+- ITS 2024/2956: Register of Information
